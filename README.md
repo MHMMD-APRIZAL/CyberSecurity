@@ -248,6 +248,7 @@ echo "Login gagal (secure). <a href='index.php'>Kembali</a>";
    <img width="1918" height="1199" alt="Screenshot_65" src="https://github.com/user-attachments/assets/1b788f87-203e-492c-962b-f87d76e0b568" />
 2. login Gagal
    <img width="1919" height="1133" alt="Screenshot_67" src="https://github.com/user-attachments/assets/0aa9ad20-9e89-4769-8a4d-26028f361a3a" />
-# 12) link
+# 12) link pdf hostedscan
 [2026-01-08 muhammadafrizall050517-at-gmail-com-s organization report.pdf](https://github.com/user-attachments/files/24486101/2026-01-08.muhammadafrizall050517-at-gmail-com-s.organization.report.pdf)
-
+# 13) CERTIFICATE 
+https://github.com/MHMMD-APRIZAL/CERTIFICATE
